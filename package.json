@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/chensheejen@hotmail.com.lwc-kys1p8zj",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve J1lZCI8uUNcp8qjt8IIE --open"
+  }
+}
